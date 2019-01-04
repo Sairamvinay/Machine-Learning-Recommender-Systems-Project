@@ -12,3 +12,5 @@ Our team's job was to use the knowledge of recommender systems and methods of pr
 
 Our team had written code on first finding most effective methods of prediction. For this we used the rectools package.
 For the problem B, we had to use sentiment analysis to provide numeric scores to reviews, and we then used a couple of methods to find the most effective prediction method.
+
+The link to the datasets are: https://archive.ics.uci.edu/ml/machine-learning-databases/00462/
