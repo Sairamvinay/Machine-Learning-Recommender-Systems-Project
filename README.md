@@ -1,5 +1,9 @@
 # Machine-Learning-Recommender-Systems-Project
 Worked on a final Term Project in Machine Learning - Recommender Systems with a fellow student.
+
+The Problem Statement for this question is in http://heather.cs.ucdavis.edu/~matloff/189G/Hwk/TermProject.html
+
+
 This project was a term project done in my Recommender Systems course. In this project, we had to analyse two different datasets: 
 1) Congress voting dataset -> Contains the type of Congressman and the bills passed and a rating (No or Yes) to indicate whether that particular bill was passed.
 2) Drugs usage database -> Contains two data files. test and train, which contain the drugname, id, condition for which that drug is used,rating given by the user on the drug, verbal reviews on the ratings and then the useful count on the number of users who found that review useful.
